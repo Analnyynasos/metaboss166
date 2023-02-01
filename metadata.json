@@ -1,0 +1,84 @@
+{
+  "name": "Pirate Squad #2",
+  "symbol": "PSGEN",
+  "description": "A host of Sentries living in Decentral City and running the Solana Network.",
+  "seller_fee_basis_points": 200,
+  "image": "https://bafybeic5l43vfkvvrafkqupheyyhabxlzat42ccs4yyqwdru3kwpeka4mq.ipfs.nftstorage.link/2.png?ext=png",
+  "attributes": [
+    {
+      "trait_type": "rank",
+      "value": "Monarchy"
+    },
+    {
+      "trait_type": "gender",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "skin",
+      "value": "Dead Prince"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Dead Prince"
+    },
+    {
+      "trait_type": "hair",
+      "value": "Dead Prince"
+    },
+    {
+      "trait_type": "jacket",
+      "value": "Dead Prince"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Dead Prince"
+    },
+    {
+      "trait_type": "pant",
+      "value": "Dead Prince"
+    },
+    {
+      "trait_type": "top",
+      "value": "Dead Prince"
+    },
+    {
+      "trait_type": "background",
+      "value": "Kasha"
+    },
+    {
+      "trait_type": "face",
+      "value": "None"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "None"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Dead Prince"
+    },
+    {
+      "trait_type": "weapon",
+      "value": "None"
+    },
+    {
+      "trait_type": "bird",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
